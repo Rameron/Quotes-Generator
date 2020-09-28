@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<configuration>
+  <minimal-range-value>25,1</minimal-range-value>
+  <maximal-range-value>29,8</maximal-range-value>
+  <multicast-group>224.100.5.1</multicast-group>
+  <multicast-port>29874</multicast-port>
+</configuration>
